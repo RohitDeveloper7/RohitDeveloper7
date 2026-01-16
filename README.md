@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Maurya</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack / Mean Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmaurya777&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmaurya777" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m  **Software Developer**
 
 - 💬 Ask me about **Full Stack**
 
